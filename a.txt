@@ -1,2 +1,3 @@
+#! /bin/bash
 my first test for sunlord.
 my second test for sunlord -lisi
