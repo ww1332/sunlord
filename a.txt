@@ -1,4 +1,6 @@
 #! /bin/bash
+oh my gad!
+又来bug了，这。。。。。。。5555~
 my first test for sunlord.
 000099999
 my second test for sunlord -lisi
